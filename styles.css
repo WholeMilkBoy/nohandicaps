@@ -1,3 +1,8 @@
 body {
     background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fyoung-man-wheelchair-on-white-260nw-1183365916.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fhandicap-man&tbnid=C2Wj3KAsuZSwAM&vet=12ahUKEwiAtLPKtt_7AhX_sGoFHRAlAc4QMygJegUIARDUAQ..i&docid=rJTwak2F3ErMMM&w=209&h=280&q=handicap%20guy&ved=2ahUKEwiAtLPKtt_7AhX_sGoFHRAlAc4QMygJegUIARDUAQ);
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #1b1b32;
+    color: #f5f6f7;
 }
