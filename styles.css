@@ -1,13 +1,13 @@
 body {
     width: 100%;
-    height: 200vh;
+    height: 100%;
     margin: 0;
     background-color: white;
-    font-family: Tahoma;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
 
-IMG {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
